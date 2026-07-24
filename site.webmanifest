@@ -1,0 +1,40 @@
+{
+  "name": "Strensham Mill Moorings and Boat Sales",
+  "short_name": "Strensham Mill",
+  "description": "A quiet marina on the River Avon at Strensham, Worcestershire. Serviced moorings and river cruisers for sale.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "background_color": "#FBF7ED",
+  "theme_color": "#123FA6",
+  "categories": ["travel", "lifestyle", "shopping"],
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Strensham Mill Moorings and Boat Sales
+User-agent: *
+Allow: /
+
+# Nothing here is private; crawl freely.
+Sitemap: https://strenshammill.com/sitemap.xml
