@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://strenshammill.com/</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -14,8 +14,18 @@
   </url>
 
   <url>
+    <loc>https://strenshammill.com/fairline-holiday-23.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://strenshammill.com/assets/img/fairline-for-sale.jpeg</image:loc>
+      <image:title>Fairline Holiday 23 “Sweet Revenge” for sale at Strensham Mill</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://strenshammill.com/bounty-30.html</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -26,7 +36,7 @@
 
   <url>
     <loc>https://strenshammill.com/viking-26-widebeam.html</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -37,7 +47,7 @@
 
   <url>
     <loc>https://strenshammill.com/viking24_2025.html</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image>
