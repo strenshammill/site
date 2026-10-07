@@ -337,7 +337,7 @@ input[type="search"]{cursor:text;}
   display:flex;
   flex-direction:column;
   justify-content:flex-end;
-  background:var(--ink) url("../img/river-avon-at-strensham-mill.jpg") center 38% / cover no-repeat;
+  background:var(--ink) url("../img/hero-marina.jpg") center 38% / cover no-repeat;
   overflow:hidden;
 }
 .hero-scrim{
@@ -459,6 +459,8 @@ input[type="search"]{cursor:text;}
 .site-header.is-condensed{box-shadow:0 6px 24px rgba(11,31,77,.07);}
 .site-header.is-condensed .header-inner{padding-top:9px;padding-bottom:9px;}
 .site-header.is-condensed .brand img{height:42px;}
+/* The condensed header is 16px shorter; this margin stops the page jumping up. */
+.site-header.is-condensed{margin-bottom:16px;}
 
 /* ═══════════════════════════════════════════════════════════════
    CROWN MARK: a tiny nod to the burgee/crown, drawn in CSS.
